@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid"
+    },
+    {
+        "id": 2,
+        "name": "Barcelona"
+    },
+    {
+        "id": 4,
+        "name": "Atlético de Madrid"
+    },
+    {
+        "id": 5,
+        "name": "Real Sociedad"
+    },
+    {
+        "id": 6,
+        "name": "Sevilla"
+    },
+    {
+        "id": 7,
+        "name": "Manchester City"
+    },
+    {
+        "id": 8,
+        "name": "Arsenal"
+    },
+    {
+        "id": 9,
+        "name": "Newcastle"
+    },
+    {
+        "id": 10,
+        "name": "Manchester United"
+    },
+    {
+        "id": 11,
+        "name": "Napoli"
+    },
+    {
+        "id": 12,
+        "name": "Lazio"
+    },
+    {
+        "id": 13,
+        "name": "Inter de Milão"
+    },
+    {
+        "id": 14,
+        "name": "Milan"
+    },
+    {
+        "id": 15,
+        "name": "Bayern Munique"
+    },
+    {
+        "id": 16,
+        "name": "Borussia Dortmund"
+    },
+    {
+        "id": 17,
+        "name": "Leipzig"
+    },
+    {
+        "id": 18,
+        "name": "Union Berlim"
+    },
+    {
+        "id": 19,
+        "name": "Paris Saint-Germain"
+    },
+    {
+        "id": 20,
+        "name": "Lens"
+    },
+    {
+        "id": 21,
+        "name": "Benfica"
+    },
+    {
+        "id": 22,
+        "name": "Porto"
+    },
+    {
+        "id": 23,
+        "name": "Braga"
+    },
+    {
+        "id": 24,
+        "name": "Feyenoord"
+    },
+    {
+        "id": 25,
+        "name": "PSV Eindhoven"
+    },
+    {
+        "id": 26,
+        "name": "Copenhaga"
+    },
+    {
+        "id": 27,
+        "name": "Galatasaray"
+    },
+    {
+        "id": 28,
+        "name": "Salzburgo"
+    },
+    {
+        "id": 29,
+        "name": "Shakhtar Donetsk"
+    },
+    {
+        "id": 30,
+        "name": "Estrela Vermelha"
+    },
+    {
+        "id": 31,
+        "name": "Celtic"
+    },
+    {
+        "id": 32,
+        "name": "Young Boys"
+    }
+]
